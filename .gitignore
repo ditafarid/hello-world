@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*
+*.local
+
+# Dist / build / output folders
+dist/
+build/
+out/
+
+# Logs
+*.log
+logs/
+debug.log
+
+# VS Code settings
+.vscode/
+.history/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+
+# OS cache
+Thumbs.db
+
+# Git itself
+.gitignored
